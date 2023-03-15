@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="pageBackground" format = "reference"/>
+    <attr name="textLarge" format = "reference"/>
+    <attr name="textAppearanceSubtitle1" format = "reference"/>
+    <attr name="textRegular" format = "reference"/>
+    <attr name="whiteBackground" format = "reference"/>
+    <attr name="Button" format = "reference"/>
+    <attr name="WhiteSmoke" format = "color"/>
+
+</resources>

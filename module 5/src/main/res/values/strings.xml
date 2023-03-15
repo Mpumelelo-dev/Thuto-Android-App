@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ThutoApp</string>
+    <string name="you_are_one_step_away_to_choosing_a_suitable_career_for_you">you are one step away to choosing a suitable career for you</string>
+    <string name="next">Next</string>
+    <string name="register">Register!</string>
+    <string name="home">Home</string>
+    <string name="begin_search">Begin Search</string>
+    <string name="past_papers">Past Papers</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="welcome">welcome!</string>
+    <string name="thuto_user">thuto user</string>
+    <string name="student">student</string>
+    <string name="capture">Capture</string>
+    <string name="capture_picture">capture picture</string>
+    <string name="take_picture">Take picture</string>
+    <string name="camerapic">camerapic</string>
+    <string name="image">Image</string>
+    <string name="share">Share</string>
+</resources>

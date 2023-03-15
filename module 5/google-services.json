@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392332975088",
+    "project_id": "thutopeleapp",
+    "storage_bucket": "thutopeleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392332975088:android:52fcc00c303e281b09db35",
+        "android_client_info": {
+          "package_name": "com.example.thutoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392332975088-hfdsof6q6kvb1t9o4ttjhe7eeidotg1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0oJkZ6MSiiI5Rm47lkO-SSO3EyyatQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392332975088-hfdsof6q6kvb1t9o4ttjhe7eeidotg1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

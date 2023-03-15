@@ -1,0 +1,4 @@
+depedencies
+{
+implementation 'com.robertlevonyan.components:PermissionsFlow:1.2.0'
+}
